@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		O24WILr8ScsLNJJPjRNkp1QbsvI=
+		EkpEMNLYYUyszlad/wb1qKLJ2Es=
 		</data>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bTobPStws8DhLsmuSkNnQ0qwsRs=
+		6fRlsknNYsrnU1wSKjO80aaiEyE=
 		</data>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		c9QPXb0aVXlpYR6Yh8QpAKDwx3w=
+		q//uvutPpCePVzoXhV7HjO/DodQ=
 		</data>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bTobPStws8DhLsmuSkNnQ0qwsRs=
+		6fRlsknNYsrnU1wSKjO80aaiEyE=
 		</data>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iy/rPGKwIYQL3y8ajCt5MQ9JC6o=
+		GcA+KWeyS8vn6guwLCEmENhkK5Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tJcNyfeSNYrcObXPFLQzCfyP3ggOy16Fwr7Be+7QZsc=
+			xk75RhEHWeyZ+gdxtpqBcXMsuWaWaqaZOIUI/3mblFQ=
 			</data>
 		</dict>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YjOb0Fyct6f/0Uix/8PtlEHKCrvI9b7etMv/AeCgBbQ=
+			FTS4/2cS3QXAOS9wswCP2hu9nfcn5p5N25e2YXJflq0=
 			</data>
 		</dict>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tJcNyfeSNYrcObXPFLQzCfyP3ggOy16Fwr7Be+7QZsc=
+			xk75RhEHWeyZ+gdxtpqBcXMsuWaWaqaZOIUI/3mblFQ=
 			</data>
 		</dict>
 		<key>Modules/NetworkMonitor.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9rp1ZMaknlGq0Z6eEAw85epYkgr+SWBSavLiH2mDOXY=
+			lhKg9z30dJHRj7OenZZX+jEyaKkEsxa8z7C+z+NCMI0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
