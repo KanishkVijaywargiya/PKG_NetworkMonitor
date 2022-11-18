@@ -6,6 +6,13 @@
     "children": [
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NetworkMonitor"
+      },
+      {
+        "kind": "Import",
         "name": "Network",
         "printedName": "Network",
         "declKind": "Import",
@@ -20,8 +27,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "Network",
-        "printedName": "Network",
+        "name": "NetworkConnection",
+        "printedName": "NetworkConnection",
         "children": [
           {
             "kind": "Var",
@@ -36,8 +43,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:14NetworkMonitor0A0C9connectedSbvp",
-            "mangledName": "$s14NetworkMonitor0A0C9connectedSbvp",
+            "usr": "s:14NetworkMonitor0A10ConnectionC9connectedSbvp",
+            "mangledName": "$s14NetworkMonitor0A10ConnectionC9connectedSbvp",
             "moduleName": "NetworkMonitor",
             "declAttributes": [
               "HasInitialValue",
@@ -60,8 +67,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14NetworkMonitor0A0C9connectedSbvg",
-                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvg",
+                "usr": "s:14NetworkMonitor0A10ConnectionC9connectedSbvg",
+                "mangledName": "$s14NetworkMonitor0A10ConnectionC9connectedSbvg",
                 "moduleName": "NetworkMonitor",
                 "implicit": true,
                 "accessorKind": "get"
@@ -84,8 +91,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14NetworkMonitor0A0C9connectedSbvs",
-                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvs",
+                "usr": "s:14NetworkMonitor0A10ConnectionC9connectedSbvs",
+                "mangledName": "$s14NetworkMonitor0A10ConnectionC9connectedSbvs",
                 "moduleName": "NetworkMonitor",
                 "implicit": true,
                 "accessorKind": "set"
@@ -102,8 +109,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:14NetworkMonitor0A0C9connectedSbvM",
-                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvM",
+                "usr": "s:14NetworkMonitor0A10ConnectionC9connectedSbvM",
+                "mangledName": "$s14NetworkMonitor0A10ConnectionC9connectedSbvM",
                 "moduleName": "NetworkMonitor",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -117,14 +124,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Network",
-                "printedName": "NetworkMonitor.Network",
-                "usr": "s:14NetworkMonitor0A0C"
+                "name": "NetworkConnection",
+                "printedName": "NetworkMonitor.NetworkConnection",
+                "usr": "s:14NetworkMonitor0A10ConnectionC"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:14NetworkMonitor0A0CACycfc",
-            "mangledName": "$s14NetworkMonitor0A0CACycfc",
+            "usr": "s:14NetworkMonitor0A10ConnectionCACycfc",
+            "mangledName": "$s14NetworkMonitor0A10ConnectionCACycfc",
             "moduleName": "NetworkMonitor",
             "declAttributes": [
               "AccessControl"
@@ -133,8 +140,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "s:14NetworkMonitor0A0C",
-        "mangledName": "$s14NetworkMonitor0A0C",
+        "usr": "s:14NetworkMonitor0A10ConnectionC",
+        "mangledName": "$s14NetworkMonitor0A10ConnectionC",
         "moduleName": "NetworkMonitor",
         "declAttributes": [
           "AccessControl",
@@ -172,14 +179,14 @@
     {
       "filePath": "\/Users\/kanishkvijaywargiya\/Desktop\/SPM\/Framework\/NetworkMonitor\/NetworkMonitor\/NetworkMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 605,
+      "offset": 633,
       "length": 9,
       "value": "\"Monitor\""
     },
     {
       "filePath": "\/Users\/kanishkvijaywargiya\/Desktop\/SPM\/Framework\/NetworkMonitor\/NetworkMonitor\/NetworkMonitor.swift",
       "kind": "BooleanLiteral",
-      "offset": 702,
+      "offset": 730,
       "length": 5,
       "value": "false"
     }
