@@ -1,0 +1,187 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "NetworkMonitor"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "NetworkMonitor"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Network",
+        "printedName": "Network",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "connected",
+            "printedName": "connected",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:14NetworkMonitor0A0C9connectedSbvp",
+            "mangledName": "$s14NetworkMonitor0A0C9connectedSbvp",
+            "moduleName": "NetworkMonitor",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NetworkMonitor0A0C9connectedSbvg",
+                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvg",
+                "moduleName": "NetworkMonitor",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NetworkMonitor0A0C9connectedSbvs",
+                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvs",
+                "moduleName": "NetworkMonitor",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:14NetworkMonitor0A0C9connectedSbvM",
+                "mangledName": "$s14NetworkMonitor0A0C9connectedSbvM",
+                "moduleName": "NetworkMonitor",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Network",
+                "printedName": "NetworkMonitor.Network",
+                "usr": "s:14NetworkMonitor0A0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:14NetworkMonitor0A0CACycfc",
+            "mangledName": "$s14NetworkMonitor0A0CACycfc",
+            "moduleName": "NetworkMonitor",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:14NetworkMonitor0A0C",
+        "mangledName": "$s14NetworkMonitor0A0C",
+        "moduleName": "NetworkMonitor",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ObservableObject",
+            "printedName": "ObservableObject",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ObjectWillChangePublisher",
+                "printedName": "ObjectWillChangePublisher",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableObjectPublisher",
+                    "printedName": "Combine.ObservableObjectPublisher",
+                    "usr": "s:7Combine25ObservableObjectPublisherC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7Combine16ObservableObjectP",
+            "mangledName": "$s7Combine16ObservableObjectP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/kanishkvijaywargiya\/Desktop\/SPM\/Framework\/NetworkMonitor\/NetworkMonitor\/NetworkMonitor.swift",
+      "kind": "StringLiteral",
+      "offset": 605,
+      "length": 9,
+      "value": "\"Monitor\""
+    },
+    {
+      "filePath": "\/Users\/kanishkvijaywargiya\/Desktop\/SPM\/Framework\/NetworkMonitor\/NetworkMonitor\/NetworkMonitor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 702,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

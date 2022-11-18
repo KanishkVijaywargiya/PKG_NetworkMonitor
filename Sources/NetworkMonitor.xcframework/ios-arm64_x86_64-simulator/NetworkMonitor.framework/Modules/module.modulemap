@@ -1,0 +1,11 @@
+framework module NetworkMonitor {
+  umbrella header "NetworkMonitor.h"
+
+  export *
+  module * { export * }
+}
+
+module NetworkMonitor.Swift {
+  header "NetworkMonitor-Swift.h"
+  requires objc
+}
